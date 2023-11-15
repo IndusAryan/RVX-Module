@@ -1,5 +1,5 @@
-Music-RVX (arm64-v8a): 6.27.53  
 Music-RVX (arm-v7a): 6.27.53  
+Music-RVX (arm64-v8a): 6.27.53  
 YouTube-RVX: 18.43.45  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  

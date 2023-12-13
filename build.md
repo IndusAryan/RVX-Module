@@ -1,7 +1,6 @@
 Music-RVX (arm-v7a): 6.31.55  
 
 To Login ,Install [mMicrog](https://github.com/kazimmt/mMicroG/releases) by KaziMMT or [VancedXmicroG](https://gitlab.com/cuynu/VancedxMicroG/-/releases) by Cuynu for non-root YouTube and YT Music  
-Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
 
 [RVX-Module-by-IndusAryan](https://github.com/IndusAryan/RVX-Module)  
 

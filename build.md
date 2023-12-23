@@ -1,6 +1,6 @@
 Music-RVX (arm-v7a): 6.31.55  
-YouTube-RVX: 18.46.43  
 Music-RVX (arm64-v8a): 6.31.55  
+YouTube-RVX: 18.46.43  
 
 To Login ,Install [mMicrog](https://github.com/kazimmt/mMicroG/releases) by KaziMMT or [VancedXmicroG](https://gitlab.com/cuynu/VancedxMicroG/-/releases) by Cuynu for non-root YouTube and YT Music  
 
@@ -8,6 +8,6 @@ To Login ,Install [mMicrog](https://github.com/kazimmt/mMicroG/releases) by Kazi
 
 Changelog:  
 CLI: inotia00/revanced-cli-4.3.1-all.jar  
-Integrations: inotia00/revanced-integrations-0.129.1.apk  
-Patches: inotia00/revanced-patches-2.206.1.jar  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v2.206.1)  
+Integrations: inotia00/revanced-integrations-0.130.1.apk  
+Patches: inotia00/revanced-patches-2.207.1.jar  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v2.207.1)  

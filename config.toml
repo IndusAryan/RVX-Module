@@ -29,13 +29,12 @@ build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Twitter]
-enabled = true
 patches-source = "crimera/piko"
 integrations-source = "crimera/revanced-integrations"
-cli-source = "ReVanced/revanced-cli"
+cli-source = "inotia00/revanced-cli"
 build-mode = "apk"
 version= "auto"
-apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/twitter-inc/twitter/"
 #archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 
 [Twitch]

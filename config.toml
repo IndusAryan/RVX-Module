@@ -30,9 +30,9 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Twitter]
 enabled = true
-#patches-source = "IndusAryan/twitter-patches"
-#excluded-patches = "'Black Bird icon' 'White Bird icon' 'Hide view count'"
-#included-patches = "'Unlock downloads' 'OG Twitter brand' Dynamic color 'Full Monet Theme' 'Grey Theme Patch' 'OG Bird icon'"
+patches-source = "crimera/piko"
+integrations-source = "crimera/revanced-integrations"
+cli-source = "ReVanced/revanced-cli"
 build-mode = "apk"
 version= "auto"
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"

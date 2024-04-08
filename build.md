@@ -1,14 +1,14 @@
-Twitter: 10.34.0-release.0  
+Twitter: 10.35.0-release.0  
 
 To Login in YouTube and YT Music on non-root devices, Install [GMSCoreMicroG](https://github.com/YT-Advanced/GmsCore/releases)  
 
 [RVX-Module-by-IndusAryan](https://github.com/IndusAryan/RVX-Module)  
 
 Changelog:  
-CLI: j-hc/revanced-cli-4.5.0-all.jar  
-Integrations: crimera/revanced-integrations-1.10.0.apk  
-Patches: crimera/revanced-patches-1.19.0.jar  
-[Changelog](https://github.com/crimera/piko/releases/tag/v1.19.0)  
+CLI: j-hc/revanced-cli-4.6.0-all.jar  
+Integrations: crimera/revanced-integrations-1.11.0.apk  
+Patches: crimera/revanced-patches-1.20.0.jar  
+[Changelog](https://github.com/crimera/piko/releases/tag/v1.20.0)  
 
 Skipped:  
 Patches: YT-Advanced/revanced-patches-2.220.10.jar    

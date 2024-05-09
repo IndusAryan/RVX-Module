@@ -7,10 +7,11 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [Music-RVX]
 app-name = "Music"
-patches-source = "YT-Advanced/ReX-patches"
-integrations-source = "YT-Advanced/ReX-integrations"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
-version= "6.44.54"
+version= "6.51.52"
+rv-brand = "YT-Music-RVX"
 excluded-patches = "'Custom branding Music name' 'Custom branding icon YouTube Music'"
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
@@ -18,17 +19,18 @@ arch = "both"
 
 [YouTube-RVX]
 app-name = "YouTube"
-patches-source = "YT-Advanced/ReX-patches"
-integrations-source = "YT-Advanced/ReX-integrations"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
-rv-brand = "YouTube"
-version= "19.11.38"
+rv-brand = "YouTube-RVX"
+version= "19.16.39"
 excluded-patches = "'Custom branding icon YouTube' 'Enable debug logging' 'MaterialYou' 'Custom branding name YouTube'"
 included-patches = "'Add splash animation' 'Premium heading' 'Hide player button background'"
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Twitter]
+enabled = false
 patches-source = "crimera/piko"
 integrations-source = "crimera/revanced-integrations"
 build-mode = "apk"

@@ -1,7 +1,8 @@
-*.jar
 *.apk
 *.zip
-*.keystore
-
-!base-v17.24.34.apk
-.v*
+/temp
+/build
+test*
+/logs
+build.md
+cmpr

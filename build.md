@@ -1,14 +1,12 @@
-Twitter: 10.40.0-release.0  
+Music-RVX (arm64-v8a): 6.51.52  
+Music-RVX (arm-v7a): 6.51.52  
+YouTube-RVX: 19.16.39  
 
-To Login in YouTube and YT Music on non-root devices, Install [GMSCoreMicroG](https://github.com/YT-Advanced/GmsCore/releases)  
-
-[RVX-Module-by-IndusAryan](https://github.com/IndusAryan/RVX-Module)  
-
-Changelog:  
-CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: crimera/revanced-integrations-1.17.0.apk  
-Patches: crimera/revanced-patches-1.27.0.jar  
-[Changelog](https://github.com/crimera/piko/releases/tag/v1.27.0)  
-
-Skipped:  
-Patches: YT-Advanced/revanced-patches-2.220.10.jar    
+To Login in YouTube and YT Music on non-root devices, Install [GMSCoreMicroG](https://github.com/ReVanced/GmsCore/releases)  
+Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
+n[RVX-Module-by-IndusAryan](https://github.com/IndusAryan/RVX-Module)
+  
+CLI: inotia00/revanced-cli-4.6.1-all.jar  
+Integrations: inotia00/revanced-integrations-1.8.2.apk  
+Patches: inotia00/revanced-patches-4.7.1.jar  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v4.7.1)  

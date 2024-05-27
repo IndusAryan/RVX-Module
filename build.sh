@@ -170,7 +170,7 @@ if [ -z "$(ls -A1 ${BUILD_DIR})" ]; then abort "All builds failed."; fi
 
 log "\nTo Login in YouTube and YT Music on non-root devices, Install [GMSCoreMicroG](https://github.com/ReVanced/GmsCore/releases)"
 log "Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store"
-log "n[RVX-Module-by-IndusAryan](https://github.com/IndusAryan/RVX-Module)\n"
+log "\n[RVX-Module-by-IndusAryan](https://github.com/IndusAryan/RVX-Module)\n"
 log "$(cat $TEMP_DIR/*-rv/changelog.md)"
 
 SKIPPED=$(cat $TEMP_DIR/skipped 2>/dev/null || :)

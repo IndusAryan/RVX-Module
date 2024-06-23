@@ -1,6 +1,6 @@
-Music-RVX (arm-v7a): 7.05.52  
-Music-RVX (arm64-v8a): 7.05.52  
-YouTube-RVX: 19.21.40  
+Music-RVX (arm64-v8a): 7.06.53  
+Music-RVX (arm-v7a): 7.06.53  
+YouTube-RVX: 19.23.40  
 
 To Login in YouTube and YT Music on non-root devices, Install [GMSCoreMicroG](https://github.com/ReVanced/GmsCore/releases)  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  

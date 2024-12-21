@@ -1,4 +1,5 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
+parallel-jobs = 1
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
@@ -10,7 +11,7 @@ app-name = "Music"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
-version= "7.16.53"
+version= "7.25.52"
 rv-brand = "YT-Music-RVX"
 excluded-patches = "'Custom branding name for YouTube Music' 'Custom branding icon for YouTube Music'"
 build-mode = "both"
@@ -23,7 +24,7 @@ patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "YouTube-RVX"
-version= "19.16.39"
+version= "19.44.39"
 excluded-patches = "'Custom branding icon for YouTube' 'Enable debug logging' 'MaterialYou' 'Custom branding name for YouTube'"
 included-patches = "'Add splash animation' 'Premium heading' 'Hide player button background'"
 build-mode = "both"
@@ -38,54 +39,6 @@ version= "auto"
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 #archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 
-[Twitch]
-enabled = false
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
-
-[TikTok]
-enabled = false
-apkmirror-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
-included-patches = "'SIM spoof'"
-
 [Reddit]
 enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
-
-[Messenger]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
-apkmirror-arch = "arm64-v8a"
-
-[Spotify]
-enabled = false
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-
-[Citra]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/citra-emulator/citra-emulator/"
-apkmirror-arch = "arm64-v8a"
-
-[IconPackStudio]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
-
-[Music-Extended]
-enabled = false
-app-name = "Music"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-arch = "both"
-
-[YouTube-Extended]
-enabled = false
-app-name = "YouTube"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"

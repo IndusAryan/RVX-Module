@@ -1,4 +1,3 @@
-Music-RVX (arm64-v8a): 7.25.52  
 Music-RVX (arm-v7a): 7.25.52  
 YouTube-RVX: 19.44.39  
 
@@ -8,5 +7,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [RVX-Module-by-IndusAryan](https://github.com/IndusAryan/RVX-Module)
   
 CLI: inotia00/revanced-cli-5.0.1-all.jar  
-Patches: inotia00/patches-5.2.2.rvp  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.2.2)  
+Patches: inotia00/patches-5.3.1.rvp  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.3.1)  

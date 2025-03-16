@@ -1,6 +1,6 @@
 {
-  "version": "v8.02.53 (patches: 5.4.2)",
-  "versionCode": 74,
-  "zipUrl": "https://github.com/IndusAryan/RVX-Module/releases/download/74/music-yt-music-rvx-magisk-v8.02.53-arm-v7a.zip",
+  "version": "v8.02.53 (patches: 5.5.1)",
+  "versionCode": 75,
+  "zipUrl": "https://github.com/IndusAryan/RVX-Module/releases/download/75/music-yt-music-rvx-magisk-v8.02.53-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/IndusAryan/RVX-Module/update/build.md"
 }

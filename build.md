@@ -1,4 +1,6 @@
-Twitter: 11.81.0-release.0  
+Music-Morphe (arm64-v8a): 9.15.51  
+Music-Morphe (arm-v7a): 9.15.51  
+YouTube-Morphe: 20.51.39  
 
 To Login in YouTube and YT Music on non-root devices, Install [GMSCoreMicroG](https://github.com/ReVanced/GmsCore/releases)  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
@@ -6,8 +8,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [RVX-Module-by-IndusAryan](https://github.com/IndusAryan/RVX-Module)
   
 CLI: MorpheApp/morphe-cli-1.9.1-all.jar  
-Patches: crimera/patches-3.5.0.mpp  
-[Changelog](https://github.com/crimera/piko/releases/tag/v3.5.0)  
-
-Skipped:  
-Patches: MorpheApp/patches-1.31.0.mpp    
+Patches: MorpheApp/patches-1.32.0.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.32.0)  
